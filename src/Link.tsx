@@ -1,3 +1,5 @@
+import './index.css';
+
 interface LinkProps {
     url: string;
     text: string;

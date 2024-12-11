@@ -28,7 +28,7 @@ function App() {
   return (
     <div className="card">
       <div className="profile">
-        <img src="src/assets/24d6f2e3573b6bbaaeafddf0be7a8fa2.jpg" alt="soem"/>
+        <img src="src/assets/24d6f2e3573b6bbaaeafddf0be7a8fa2.jpg" alt="profile-pic"/>
       </div>
       <div className="name">Mohammed Basil</div>
       <div className="location">Somewhere, Nowhere</div>
@@ -40,4 +40,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
